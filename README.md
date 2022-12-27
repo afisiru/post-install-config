@@ -87,17 +87,11 @@ Configuring SLA's, created an SLA with a 1 Hour grace period on a 24/7 time sche
 <br />
 
 <p>
-<img src="https://imgur.com/CFEwyfq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ewjd90o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuiring help topics, created an example new help topic called "Critical Business outage" for user when submitting tickets.
+Configuiring help topics, created an example help topic called "Critical Business outage" for users when submitting tickets.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
