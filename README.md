@@ -39,7 +39,7 @@ Configuring roles created a role called "SUPREME ADMINS" .
 <br />
 
 <p>
-<img src="https://imgur.com/0xFJAYQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1cr7KVo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring Departments created a new Department called "System Administrators".
