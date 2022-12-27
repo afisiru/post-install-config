@@ -63,10 +63,10 @@ Allowing any user to create tickets.
 <br />
 
 <p>
-<img src="https://imgur.com/NeG9RtW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kM3szkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating a new user and assigning them to departments and teams and giving them access.
+Creating agents and assigning them to departments and teams.
 </p>
 <br />
 
@@ -79,7 +79,7 @@ Created a new user they're able to create tickets or check ticket status.
 <br />
 
 <p>
-<img src="https://imgur.com/IkvPM3R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ica0jgX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring SLA's, created an SLA with a 1 Hour grace period on a 24/7 time schedule
